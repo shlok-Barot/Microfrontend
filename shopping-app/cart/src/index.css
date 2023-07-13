@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  font-size: 22px;
+  margin: auto;
+  max-width: 800px;
+  margin-top: 20px;
+}
+
+.cart_dateils {
+  display: grid;
+  text-align: start;
+}
+.cart_dateils label {
+  margin: 5px 0;
+  font-size: 24px;
+}

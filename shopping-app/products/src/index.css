@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+  font-size: 20px;
+  margin: auto;
+  max-width: 800px;
+  margin-top: 20px;
+}
+.products h5{
+  font-size: 26px;
+  text-align: center;
+}
+.products label{
+  font-size: 22px;
+}
